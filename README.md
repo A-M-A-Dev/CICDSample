@@ -5,7 +5,35 @@
 
 <div dir="rtl" align='justify'>
 
-# افزودن CI/CD به یک کتابخانهٔ Net.
+# 
+
+<h1 align="center">
+افزودن CI/CD به یک کتابخانهٔ Net.
+</h1>
+
+<div align="center">
+  <i>
+    نویسندگان:
+    <a href="https://github.com/ahmadsalimi">
+    احمد سلیمی
+    </a>
+    -
+    <a href="https://github.com/ArmanZarei">
+    آرمان زارعی
+    </a>
+    -
+    <a href="https://github.com/Mobinapournemat">
+    مبینا پورنعمت
+    </a>
+  </i>
+</div>
+
+<hr>
+
+<div align="center">
+<img src="./Images/CICD.png" alt="Docker">
+</div>
+
 
 1. CI/CD چیست و چرا اهمیت دارد:
 
