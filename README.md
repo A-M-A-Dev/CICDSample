@@ -31,7 +31,7 @@
 <hr>
 
 <div align="center">
-<img src="./Images/CICD.png" alt="Docker">
+<img src="./Images/CICD.png" alt="CICD">
 </div>
 
 
