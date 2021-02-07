@@ -257,7 +257,7 @@
 
         <div dir="ltr">
 
-        ```
+        ```Markdown
         [![codecov](https://codecov.io/gh/<github-username>/<repo-name>/branch/master/graph/badge.svg)](https://codecov.io/gh/<github-username>/<repo-name>)
         ```
 
