@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Arsenic.SampleLibrary" Version="1.0.9" />
+    <PackageReference Include="Arsenic.SampleLibrary" Version="0.0.9" />
   </ItemGroup>
 
 </Project>
