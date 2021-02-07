@@ -8,10 +8,5 @@ namespace Arsenic.SampleLibrary
         {
             return a + b;
         }
-
-        public void Print()
-        {
-            
-        }
     }
 }
